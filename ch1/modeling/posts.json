@@ -1,0 +1,23 @@
+{
+  "title": "blog post title",
+  "body": "blob post body",
+  "author": "blog post author",
+  "date": "blog post date",
+  "comments": [
+    {
+      "name": "person name",
+      "email": "person email",
+      "comment": "the actual comment"
+    },
+    {
+      "name": "another person name",
+      "email": "another person email",
+      "comment": "another comment"
+    }
+  ],
+  "tags": [
+    "tag1",
+    "tag2",
+    "tag3"
+  ]
+}
