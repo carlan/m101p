@@ -199,5 +199,5 @@ sessions = sessionDAO.SessionDAO(database)
 
 
 bottle.debug(True)
-bottle.run(host='localhost', port=8082)         # Start the webserver running and wait for requests
+bottle.run(host='0.0.0.0', port=8080)         # Start the webserver running and wait for requests
 
