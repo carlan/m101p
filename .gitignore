@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Large file
+sample_128_mb.txt
